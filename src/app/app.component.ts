@@ -1,13 +1,17 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { HeaderComponent } from "./header/header.component";
+import { HttpClientModule } from '@angular/common/http';
+import { SellerService } from './services/seller.service';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+  styleUrl: './app.component.css',
+  imports: 
+  [RouterOutlet, HeaderComponent]
 })
 export class AppComponent {
-  title = 'e-com-angular';
+  title = 'e-comm-angular';
 }

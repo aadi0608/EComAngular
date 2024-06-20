@@ -1,0 +1,2082 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "Product 1",
+    "image_url": "product1.jpg",
+    "price": 20.5,
+    "discount": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 2,
+    "product_name": "Product 2",
+    "image_url": "product2.jpg",
+    "price": 21.0,
+    "discount": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 3,
+    "product_name": "Product 3",
+    "image_url": "product3.jpg",
+    "price": 21.5,
+    "discount": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 4,
+    "product_name": "Product 4",
+    "image_url": "product4.jpg",
+    "price": 22.0,
+    "discount": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 5,
+    "product_name": "Product 5",
+    "image_url": "product5.jpg",
+    "price": 22.5,
+    "discount": 5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": []
+  },
+  {
+    "product_id": 6,
+    "product_name": "Product 6",
+    "image_url": "product6.jpg",
+    "price": 23.0,
+    "discount": 6,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 7,
+    "product_name": "Product 7",
+    "image_url": "product7.jpg",
+    "price": 23.5,
+    "discount": 7,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 8,
+    "product_name": "Product 8",
+    "image_url": "product8.jpg",
+    "price": 24.0,
+    "discount": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 9,
+    "product_name": "Product 9",
+    "image_url": "product9.jpg",
+    "price": 24.5,
+    "discount": 9,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 10,
+    "product_name": "Product 10",
+    "image_url": "product10.jpg",
+    "price": 25.0,
+    "discount": 0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": []
+  },
+  {
+    "product_id": 11,
+    "product_name": "Product 11",
+    "image_url": "product11.jpg",
+    "price": 25.5,
+    "discount": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 12,
+    "product_name": "Product 12",
+    "image_url": "product12.jpg",
+    "price": 26.0,
+    "discount": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 13,
+    "product_name": "Product 13",
+    "image_url": "product13.jpg",
+    "price": 26.5,
+    "discount": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 14,
+    "product_name": "Product 14",
+    "image_url": "product14.jpg",
+    "price": 27.0,
+    "discount": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 15,
+    "product_name": "Product 15",
+    "image_url": "product15.jpg",
+    "price": 27.5,
+    "discount": 5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": []
+  },
+  {
+    "product_id": 16,
+    "product_name": "Product 16",
+    "image_url": "product16.jpg",
+    "price": 28.0,
+    "discount": 6,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 17,
+    "product_name": "Product 17",
+    "image_url": "product17.jpg",
+    "price": 28.5,
+    "discount": 7,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 18,
+    "product_name": "Product 18",
+    "image_url": "product18.jpg",
+    "price": 29.0,
+    "discount": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 19,
+    "product_name": "Product 19",
+    "image_url": "product19.jpg",
+    "price": 29.5,
+    "discount": 9,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 20,
+    "product_name": "Product 20",
+    "image_url": "product20.jpg",
+    "price": 30.0,
+    "discount": 0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": []
+  },
+  {
+    "product_id": 21,
+    "product_name": "Product 21",
+    "image_url": "product21.jpg",
+    "price": 30.5,
+    "discount": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 22,
+    "product_name": "Product 22",
+    "image_url": "product22.jpg",
+    "price": 31.0,
+    "discount": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 23,
+    "product_name": "Product 23",
+    "image_url": "product23.jpg",
+    "price": 31.5,
+    "discount": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 24,
+    "product_name": "Product 24",
+    "image_url": "product24.jpg",
+    "price": 32.0,
+    "discount": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 25,
+    "product_name": "Product 25",
+    "image_url": "product25.jpg",
+    "price": 32.5,
+    "discount": 5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": []
+  },
+  {
+    "product_id": 26,
+    "product_name": "Product 26",
+    "image_url": "product26.jpg",
+    "price": 33.0,
+    "discount": 6,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 27,
+    "product_name": "Product 27",
+    "image_url": "product27.jpg",
+    "price": 33.5,
+    "discount": 7,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 28,
+    "product_name": "Product 28",
+    "image_url": "product28.jpg",
+    "price": 34.0,
+    "discount": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 29,
+    "product_name": "Product 29",
+    "image_url": "product29.jpg",
+    "price": 34.5,
+    "discount": 9,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 30,
+    "product_name": "Product 30",
+    "image_url": "product30.jpg",
+    "price": 35.0,
+    "discount": 0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": []
+  },
+  {
+    "product_id": 31,
+    "product_name": "Product 31",
+    "image_url": "product31.jpg",
+    "price": 35.5,
+    "discount": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 32,
+    "product_name": "Product 32",
+    "image_url": "product32.jpg",
+    "price": 36.0,
+    "discount": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 33,
+    "product_name": "Product 33",
+    "image_url": "product33.jpg",
+    "price": 36.5,
+    "discount": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 34,
+    "product_name": "Product 34",
+    "image_url": "product34.jpg",
+    "price": 37.0,
+    "discount": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 35,
+    "product_name": "Product 35",
+    "image_url": "product35.jpg",
+    "price": 37.5,
+    "discount": 5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": []
+  },
+  {
+    "product_id": 36,
+    "product_name": "Product 36",
+    "image_url": "product36.jpg",
+    "price": 38.0,
+    "discount": 6,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 37,
+    "product_name": "Product 37",
+    "image_url": "product37.jpg",
+    "price": 38.5,
+    "discount": 7,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 38,
+    "product_name": "Product 38",
+    "image_url": "product38.jpg",
+    "price": 39.0,
+    "discount": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 39,
+    "product_name": "Product 39",
+    "image_url": "product39.jpg",
+    "price": 39.5,
+    "discount": 9,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 40,
+    "product_name": "Product 40",
+    "image_url": "product40.jpg",
+    "price": 40.0,
+    "discount": 0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": []
+  },
+  {
+    "product_id": 41,
+    "product_name": "Product 41",
+    "image_url": "product41.jpg",
+    "price": 40.5,
+    "discount": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 42,
+    "product_name": "Product 42",
+    "image_url": "product42.jpg",
+    "price": 41.0,
+    "discount": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 43,
+    "product_name": "Product 43",
+    "image_url": "product43.jpg",
+    "price": 41.5,
+    "discount": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 44,
+    "product_name": "Product 44",
+    "image_url": "product44.jpg",
+    "price": 42.0,
+    "discount": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 45,
+    "product_name": "Product 45",
+    "image_url": "product45.jpg",
+    "price": 42.5,
+    "discount": 5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": []
+  },
+  {
+    "product_id": 46,
+    "product_name": "Product 46",
+    "image_url": "product46.jpg",
+    "price": 43.0,
+    "discount": 6,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 47,
+    "product_name": "Product 47",
+    "image_url": "product47.jpg",
+    "price": 43.5,
+    "discount": 7,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 48,
+    "product_name": "Product 48",
+    "image_url": "product48.jpg",
+    "price": 44.0,
+    "discount": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 49,
+    "product_name": "Product 49",
+    "image_url": "product49.jpg",
+    "price": 44.5,
+    "discount": 9,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 50,
+    "product_name": "Product 50",
+    "image_url": "product50.jpg",
+    "price": 45.0,
+    "discount": 0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": []
+  },
+  {
+    "product_id": 51,
+    "product_name": "Product 51",
+    "image_url": "product51.jpg",
+    "price": 45.5,
+    "discount": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 52,
+    "product_name": "Product 52",
+    "image_url": "product52.jpg",
+    "price": 46.0,
+    "discount": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 53,
+    "product_name": "Product 53",
+    "image_url": "product53.jpg",
+    "price": 46.5,
+    "discount": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 54,
+    "product_name": "Product 54",
+    "image_url": "product54.jpg",
+    "price": 47.0,
+    "discount": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 55,
+    "product_name": "Product 55",
+    "image_url": "product55.jpg",
+    "price": 47.5,
+    "discount": 5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": []
+  },
+  {
+    "product_id": 56,
+    "product_name": "Product 56",
+    "image_url": "product56.jpg",
+    "price": 48.0,
+    "discount": 6,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 57,
+    "product_name": "Product 57",
+    "image_url": "product57.jpg",
+    "price": 48.5,
+    "discount": 7,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 58,
+    "product_name": "Product 58",
+    "image_url": "product58.jpg",
+    "price": 49.0,
+    "discount": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 59,
+    "product_name": "Product 59",
+    "image_url": "product59.jpg",
+    "price": 49.5,
+    "discount": 9,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 60,
+    "product_name": "Product 60",
+    "image_url": "product60.jpg",
+    "price": 50.0,
+    "discount": 0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": []
+  },
+  {
+    "product_id": 61,
+    "product_name": "Product 61",
+    "image_url": "product61.jpg",
+    "price": 50.5,
+    "discount": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 62,
+    "product_name": "Product 62",
+    "image_url": "product62.jpg",
+    "price": 51.0,
+    "discount": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 63,
+    "product_name": "Product 63",
+    "image_url": "product63.jpg",
+    "price": 51.5,
+    "discount": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 64,
+    "product_name": "Product 64",
+    "image_url": "product64.jpg",
+    "price": 52.0,
+    "discount": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 65,
+    "product_name": "Product 65",
+    "image_url": "product65.jpg",
+    "price": 52.5,
+    "discount": 5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": []
+  },
+  {
+    "product_id": 66,
+    "product_name": "Product 66",
+    "image_url": "product66.jpg",
+    "price": 53.0,
+    "discount": 6,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 67,
+    "product_name": "Product 67",
+    "image_url": "product67.jpg",
+    "price": 53.5,
+    "discount": 7,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 68,
+    "product_name": "Product 68",
+    "image_url": "product68.jpg",
+    "price": 54.0,
+    "discount": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 69,
+    "product_name": "Product 69",
+    "image_url": "product69.jpg",
+    "price": 54.5,
+    "discount": 9,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 70,
+    "product_name": "Product 70",
+    "image_url": "product70.jpg",
+    "price": 55.0,
+    "discount": 0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": []
+  },
+  {
+    "product_id": 71,
+    "product_name": "Product 71",
+    "image_url": "product71.jpg",
+    "price": 55.5,
+    "discount": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 72,
+    "product_name": "Product 72",
+    "image_url": "product72.jpg",
+    "price": 56.0,
+    "discount": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 73,
+    "product_name": "Product 73",
+    "image_url": "product73.jpg",
+    "price": 56.5,
+    "discount": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 74,
+    "product_name": "Product 74",
+    "image_url": "product74.jpg",
+    "price": 57.0,
+    "discount": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 75,
+    "product_name": "Product 75",
+    "image_url": "product75.jpg",
+    "price": 57.5,
+    "discount": 5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": []
+  },
+  {
+    "product_id": 76,
+    "product_name": "Product 76",
+    "image_url": "product76.jpg",
+    "price": 58.0,
+    "discount": 6,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 77,
+    "product_name": "Product 77",
+    "image_url": "product77.jpg",
+    "price": 58.5,
+    "discount": 7,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 78,
+    "product_name": "Product 78",
+    "image_url": "product78.jpg",
+    "price": 59.0,
+    "discount": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 79,
+    "product_name": "Product 79",
+    "image_url": "product79.jpg",
+    "price": 59.5,
+    "discount": 9,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 80,
+    "product_name": "Product 80",
+    "image_url": "product80.jpg",
+    "price": 60.0,
+    "discount": 0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": []
+  },
+  {
+    "product_id": 81,
+    "product_name": "Product 81",
+    "image_url": "product81.jpg",
+    "price": 60.5,
+    "discount": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 82,
+    "product_name": "Product 82",
+    "image_url": "product82.jpg",
+    "price": 61.0,
+    "discount": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 83,
+    "product_name": "Product 83",
+    "image_url": "product83.jpg",
+    "price": 61.5,
+    "discount": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 84,
+    "product_name": "Product 84",
+    "image_url": "product84.jpg",
+    "price": 62.0,
+    "discount": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 85,
+    "product_name": "Product 85",
+    "image_url": "product85.jpg",
+    "price": 62.5,
+    "discount": 5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": []
+  },
+  {
+    "product_id": 86,
+    "product_name": "Product 86",
+    "image_url": "product86.jpg",
+    "price": 63.0,
+    "discount": 6,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 87,
+    "product_name": "Product 87",
+    "image_url": "product87.jpg",
+    "price": 63.5,
+    "discount": 7,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 88,
+    "product_name": "Product 88",
+    "image_url": "product88.jpg",
+    "price": 64.0,
+    "discount": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 89,
+    "product_name": "Product 89",
+    "image_url": "product89.jpg",
+    "price": 64.5,
+    "discount": 9,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 90,
+    "product_name": "Product 90",
+    "image_url": "product90.jpg",
+    "price": 65.0,
+    "discount": 0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": []
+  },
+  {
+    "product_id": 91,
+    "product_name": "Product 91",
+    "image_url": "product91.jpg",
+    "price": 65.5,
+    "discount": 1,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 92,
+    "product_name": "Product 92",
+    "image_url": "product92.jpg",
+    "price": 66.0,
+    "discount": 2,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 93,
+    "product_name": "Product 93",
+    "image_url": "product93.jpg",
+    "price": 66.5,
+    "discount": 3,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 94,
+    "product_name": "Product 94",
+    "image_url": "product94.jpg",
+    "price": 67.0,
+    "discount": 4,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 95,
+    "product_name": "Product 95",
+    "image_url": "product95.jpg",
+    "price": 67.5,
+    "discount": 5,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": []
+  },
+  {
+    "product_id": 96,
+    "product_name": "Product 96",
+    "image_url": "product96.jpg",
+    "price": 68.0,
+    "discount": 6,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 2,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 97,
+    "product_name": "Product 97",
+    "image_url": "product97.jpg",
+    "price": 68.5,
+    "discount": 7,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 3,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 3,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 98,
+    "product_name": "Product 98",
+    "image_url": "product98.jpg",
+    "price": 69.0,
+    "discount": 8,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 4.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 4,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 4,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 99,
+    "product_name": "Product 99",
+    "image_url": "product99.jpg",
+    "price": 69.5,
+    "discount": 9,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.0,
+    "reviews": [
+      {
+        "user": "User1",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User2",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User3",
+        "rating": 5,
+        "comment": "Great product!"
+      },
+      {
+        "user": "User4",
+        "rating": 5,
+        "comment": "Great product!"
+      }
+    ]
+  },
+  {
+    "product_id": 100,
+    "product_name": "Product 100",
+    "image_url": "product100.jpg",
+    "price": 70.0,
+    "discount": 0,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "rating": 3.5,
+    "reviews": []
+  }
+]

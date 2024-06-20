@@ -1,0 +1,58 @@
+{
+  "seller": [
+    {
+      "id": "8662",
+      "name": "Adarsh Tiwari",
+      "email": "adarsh@seller.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "25d8",
+      "name": "yash",
+      "password": "abc@123",
+      "Email": "yash@yash.com"
+    },
+    {
+      "id": "d54e",
+      "name": "priya",
+      "password": "abc@1234",
+      "Email": "priya@gmail.com"
+    },
+    {
+      "id": "b588",
+      "name": "nick",
+      "password": "abc@123",
+      "Email": "nick@gmail.com"
+    },
+    {
+      "id": "29f4",
+      "name": "parag",
+      "password": "abc@123",
+      "Email": "prag@gmail.com"
+    },
+    {
+      "id": "a3c7",
+      "name": "",
+      "password": "",
+      "Email": ""
+    },
+    {
+      "id": "e8ee",
+      "name": "",
+      "password": "",
+      "Email": ""
+    },
+    {
+      "id": "e8b1",
+      "name": "adarsh",
+      "password": "abc@123",
+      "Email": "aadi@gmail.com"
+    },
+    {
+      "id": "0f52",
+      "name": "adarsh",
+      "password": "abc@123",
+      "Email": "adarsh@gmail.com"
+    }
+  ]
+}

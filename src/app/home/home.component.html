@@ -1,0 +1,53 @@
+<!-- <p>home</p>
+<div class="row">
+  <div class="col-md-3">
+    @for (studentDatas of studentData; track studentDatas){
+    <div class="card" style="width: 18rem">
+      <img
+        class="card-img-top"
+        src="/assets/products/{{ studentDatas.image_url }}"
+        alt="Card image cap"
+      />
+      <div class="card-body">
+        <h4>{{ studentDatas.product_name }}</h4>
+        <p class="card-text">
+          {{ studentDatas.description }}
+        </p>
+        <p>
+          <b> Rs. {{ studentDatas.price }} </b>
+        </p>
+      </div>
+    </div>
+    } @empty {
+    <p>optional block to be displayed when collection is empty</p>
+    }
+  </div>
+</div> -->
+
+<div class="">
+  <p>home</p>
+  <div class="row product-row">
+    @for (studentDatas of studentData; track studentDatas) {
+    <div class="col-md-2">
+      <div class="card product-card">
+        <img
+          class="card-img-top"
+          src="/assets/products/{{ studentDatas.image_url }}"
+          alt="Card image cap"
+        />
+        <div class="card-body">
+          <h4>{{ studentDatas.product_name }}</h4>
+          <p class="card-text">
+            {{ studentDatas.description }}
+          </p>
+          <p>
+            <b> Rs. {{ studentDatas.price }} </b>
+          </p>
+        </div>
+      </div>
+    </div>
+    } @empty {
+    <p>optional block to be displayed when collection is empty</p>
+    }
+  </div>
+</div>
